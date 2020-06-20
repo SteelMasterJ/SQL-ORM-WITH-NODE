@@ -1,0 +1,17 @@
+{
+  "name": "SQL-ORM-WITH-NODE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^5.21.13",
+    "sqlite3": "^4.2.0"
+  }
+}
